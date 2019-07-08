@@ -1,3 +1,3 @@
 # Message-box-Tessaract-
 project.cpp is code file.
-and other png file is screenshots of the same.
+other png files are screenshots of the same.
